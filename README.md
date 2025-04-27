@@ -116,10 +116,6 @@ Purpose: Run the application, take user inputs, and call appropriate service met
 -Creating a simple console-based user interface
 -Understanding the basics of service-oriented architecture in Java
 
-## 📁 File
--StackInWebBrowsers.java — contains the main implementation.
--StackInWebBrowsersDriver.java — contains all the driver implementation.
-
 ### 🚀 Possible Future Enhancements
 -Add Admin functionalities (like removing a user, checking history)
 -Implement fine calculation for late returns
