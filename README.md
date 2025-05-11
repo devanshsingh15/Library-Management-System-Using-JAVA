@@ -99,13 +99,13 @@ Handles:
 Purpose: Run the application, take user inputs, and call appropriate service methods.
 
 ### 🛠️ Technologies & Concepts Used
-` Java 17 (or Java 8+ compatible)
-` Core Java OOP Principles (Classes, Objects, Inheritance, Encapsulation)
-` Java Collections Framework (ArrayList, HashMap)
-` Streams API (Filtering and Collecting)
-` Comparator and Sorting
-` Separation of Concerns (Entity, Repository, Service Layer)
-` Simple Exception Handling
+- ` Java 17 (or Java 8+ compatible)
+- ` Core Java OOP Principles (Classes, Objects, Inheritance, Encapsulation)
+- ` Java Collections Framework (ArrayList, HashMap)
+- ` Streams API (Filtering and Collecting)
+- ` Comparator and Sorting
+- ` Separation of Concerns (Entity, Repository, Service Layer)
+- ` Simple Exception Handling
 
 ### 🎯 Learning Outcomes
 - Designing and structuring a Java project with multiple packages and layers
