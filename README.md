@@ -10,16 +10,16 @@ The project follows a simple three-layered architecture:
 -Service Layer (handles business logic like issuing books, user registration, etc.)
 
 ### ✨ Features of the Project
--Add new users
--User authentication (login)
--View all available books
--Issue (borrow) a book
--Return a book
--View all users
--Sort books by:
-  ~Book ID
-  ~Book Title
-  ~Book Author
+- Add new users
+- User authentication (login)
+- View all available books
+- Issue (borrow) a book
+- Return a book
+- View all users
+- Sort books by:
+  ~ Book ID
+  ~ Book Title
+  ~ Book Author
 
 ### 📂 Package Structure
 ```pgsql
