@@ -99,28 +99,28 @@ Handles:
 Purpose: Run the application, take user inputs, and call appropriate service methods.
 
 ### 🛠️ Technologies & Concepts Used
-`Java 17 (or Java 8+ compatible)
-`Core Java OOP Principles (Classes, Objects, Inheritance, Encapsulation)
-`Java Collections Framework (ArrayList, HashMap)
-`Streams API (Filtering and Collecting)
-`Comparator and Sorting
-`Separation of Concerns (Entity, Repository, Service Layer)
-`Simple Exception Handling
+` Java 17 (or Java 8+ compatible)
+` Core Java OOP Principles (Classes, Objects, Inheritance, Encapsulation)
+` Java Collections Framework (ArrayList, HashMap)
+` Streams API (Filtering and Collecting)
+` Comparator and Sorting
+` Separation of Concerns (Entity, Repository, Service Layer)
+` Simple Exception Handling
 
 ### 🎯 Learning Outcomes
---Designing and structuring a Java project with multiple packages and layers
--Handling real-world scenarios like book borrowing and return
--Managing collections (like HashMaps and Arrays) efficiently
--Writing clean, reusable, modular code
--Implementing custom sorting logic
--Creating a simple console-based user interface
--Understanding the basics of service-oriented architecture in Java
+- Designing and structuring a Java project with multiple packages and layers
+- Handling real-world scenarios like book borrowing and return
+- Managing collections (like HashMaps and Arrays) efficiently
+- Writing clean, reusable, modular code
+- Implementing custom sorting logic
+- Creating a simple console-based user interface
+- Understanding the basics of service-oriented architecture in Java
 
 ### 🚀 Possible Future Enhancements
--Add Admin functionalities (like removing a user, checking history)
--Implement fine calculation for late returns
--Introduce a real database (MySQL, PostgreSQL)
--Create a GUI (using JavaFX or Swing)
+- Add Admin functionalities (like removing a user, checking history)
+- Implement fine calculation for late returns
+- Introduce a real database (MySQL, PostgreSQL)
+- Create a GUI (using JavaFX or Swing)
 
 Feel free to connect!
 📌 Author: Devansh
